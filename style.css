@@ -1,0 +1,26 @@
+#position1{
+  display: flex;
+  justify-content: center;
+  color: cornflowerblue;
+}
+
+#position2 {
+  border-style: double;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  input {
+    text-align: center;
+  }
+  
+  .header {
+    position: relative;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
